@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "image": "https://avatars.githubusercontent.com/u/26532535?v=4",
+      "name": "Gustavo Gomes",
+      "age": "29",
+      "document": "012.345.678-90",
+      "email": "email@exemplo.com",
+      "phone": "(00) 0000-0000",
+      "address": "Av. Paulista, 1809 - Bela Vista",
+      "birthdate": "01/01/1990",
+      "status": "ATIVO",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/736x/c6/fa/ac/c6faacb177b0c2bb594b02aeea62f013.jpg",
+      "name": "Menino Ney",
+      "age": "30",
+      "document": "012.345.678-90",
+      "email": "email@exemplo.com",
+      "phone": "(00) 0000-0000",
+      "address": "Av. Paulista, 1809 - Bela Vista",
+      "birthdate": "01/01/1990",
+      "status": "ATIVO",
+      "gender": "Male"
+    },
+    {
+      "id": "3",
+      "image": "https://img.redbull.com/images/c_crop,x_211,y_0,h_640,w_512/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2017/11/16/1ef33604-7767-4cef-94cb-f31500c63017/ronaldinho",
+      "name": "Bruxo Master",
+      "age": "15",
+      "document": "012.345.678-90",
+      "email": "email@exemplo.com",
+      "phone": "(00) 0000-0000",
+      "address": "Universo",
+      "birthdate": "01/01/1990",
+      "status": "ATIVO",
+      "gender": "Male"
+    },
+    {
+      "id": "4",
+      "image": "https://img.redbull.com/images/c_crop,x_211,y_0,h_640,w_512/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2017/11/16/1ef33604-7767-4cef-94cb-f31500c63017/ronaldinho",
+      "name": "Bruxo Master",
+      "age": "45",
+      "document": "012.345.678-90",
+      "email": "email@exemplo.com",
+      "phone": "(00) 0000-0000",
+      "address": "Universo",
+      "birthdate": "01/01/1990",
+      "status": "ATIVO",
+      "gender": "Male"
+    }
+  ]
+}
